@@ -11,6 +11,7 @@ ZCZC W00 120  L05 Quiz related including studying
 
 ZCZC W01 45   L00 General, etc.
 ZCZC W01 30   L03 GitHub related
+ZCZC W01 5    L04 GitHub Pages related
 ZCZC W01 200  L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 300  L11 Assignment #01
 ZCZC W00 120  L05 Quiz related including studying
