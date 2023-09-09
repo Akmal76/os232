@@ -9,7 +9,8 @@ ZCZC W00 200  L10 Assignment #00
 ZCZC W00 30   L07 Demo related
 ZCZC W00 120  L05 Quiz related including studying
 
-ZCZC W01 30   L00 General, etc.
+ZCZC W01 45   L00 General, etc.
 ZCZC W01 30   L03 GitHub related
 ZCZC W01 200  L02 CLASSROOM/ZOOM meetings related
-ZCZC W01 100  L11 Assignment #01
+ZCZC W01 240  L11 Assignment #01
+ZCZC W00 120  L05 Quiz related including studying
