@@ -17,7 +17,10 @@ ZCZC W01 120  L05 Quiz related including studying
 ZCZC W01 300  L11 Assignment #01
 ZCZC W01 5    L21 Trying something (nano)
 
-ZCZC W02 10   L00 General, etc.
+ZCZC W02 25   L00 General, etc.
 ZCZC W02 200  L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 30   L03 GitHub related
-ZCZC W02 100  L11 Assignment #02
+ZCZC W01 15   L04 GitHub Pages related
+ZCZC W01 120  L05 Quiz related including studying
+ZCZC W02 300  L12 Assignment #02
+ZCZC W01 30   L21 Trying something (chmod)
