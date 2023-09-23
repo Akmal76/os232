@@ -30,5 +30,5 @@ ZCZC W03 200  L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 30   L03 GitHub related
 ZCZC W03 15   L04 GitHub Pages related
 ZCZC W03 120  L05 Quiz related including studying
-ZCZC W03 300  L13 Assignment #02
+ZCZC W03 300  L13 Assignment #03
 ZCZC W03 30   L21 Trying something (C Scripting and Makefile)
