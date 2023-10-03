@@ -32,3 +32,11 @@ ZCZC W03 15   L04 GitHub Pages related
 ZCZC W03 120  L05 Quiz related including studying
 ZCZC W03 300  L13 Assignment #03
 ZCZC W03 30   L21 Trying something (C Scripting and Makefile)
+
+ZCZC W04 25   L00 General, etc.
+ZCZC W04 200  L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 30   L03 GitHub related
+ZCZC W04 15   L04 GitHub Pages related
+ZCZC W04 120  L05 Quiz related including studying
+ZCZC W04 300  L14 Assignment #04
+ZCZC W04 30   L21 Trying something (Pointers in C Scripting)

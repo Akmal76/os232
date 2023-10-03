@@ -28,5 +28,12 @@ permalink: LINKS/
 | [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/) | Artikel | Menjelaskan apa itu _Main Memory_, _Memory Management_, _Memory Allocation_, dan lain-lain |
 | [What's a Disk Partition?](https://www.youtube.com/watch?v=udDkSdKLFGk&ab_channel=AskLeo!) | Video | Menjelaskan apa itu _Partition_, apa perbedaannya dengan _volume_, _dividing_ dan _backing up_ _partition_. |
 
+## WEEK-04 (Addressing, Shared Lib, & Pointer)
+| Topik | Tipe | Penjelasan |
+|:--:|:--:--|
+| [Big Endian and Little Endian](https://youtu.be/jhErugDB-34?feature=shared) | Video | Penjelasan mengenai Big Endian dan Little Endian |
+| [`scp` command](https://youtu.be/fmMg6cyww14?feature=shared)  | Video | Penjelasan mengenai *transfer files* antara dua komputer |
+| [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/) | Artikel | Penjelasan mengenai salah satu *memory management* yaitu *paging* |
+
 <br>
 <hr>
