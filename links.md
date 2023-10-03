@@ -30,7 +30,7 @@ permalink: LINKS/
 
 ## WEEK-04 (Addressing, Shared Lib, & Pointer)
 | Topik | Tipe | Penjelasan |
-|:--:|:--:--|
+|:--:|:--:|--|
 | [Big Endian and Little Endian](https://youtu.be/jhErugDB-34?feature=shared) | Video | Penjelasan mengenai Big Endian dan Little Endian |
 | [`scp` command](https://youtu.be/fmMg6cyww14?feature=shared)  | Video | Penjelasan mengenai *transfer files* antara dua komputer |
 | [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/) | Artikel | Penjelasan mengenai salah satu *memory management* yaitu *paging* |
