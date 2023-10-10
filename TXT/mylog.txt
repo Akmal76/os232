@@ -40,3 +40,11 @@ ZCZC W04 15   L04 GitHub Pages related
 ZCZC W04 120  L05 Quiz related including studying
 ZCZC W04 300  L14 Assignment #04
 ZCZC W04 30   L21 Trying something (Pointers in C Scripting)
+
+ZCZC W05 25   L00 General, etc.
+ZCZC W05 200  L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 30   L03 GitHub related
+ZCZC W05 15   L04 GitHub Pages related
+ZCZC W05 120  L05 Quiz related including studying
+ZCZC W05 300  L15 Assignment #05
+ZCZC W05 30   L21 Trying something

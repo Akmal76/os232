@@ -35,5 +35,12 @@ permalink: LINKS/
 | [`scp` command](https://youtu.be/fmMg6cyww14?feature=shared)  | Video | Penjelasan mengenai *transfer files* antara dua komputer |
 | [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/) | Artikel | Penjelasan mengenai salah satu *memory management* yaitu *paging* |
 
+## WEEK-05 (Virtual Memory)
+| Topik | Tipe | Penjelasan |
+|:--:|:--:|--|
+| [Thrashing](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/) | Artikel | Penjelasan mengenai *thrashing* |
+| [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) | Artikel | Penjelasan mengenai *page replacement* |
+| [Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA)](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/) | Artikel | Penjelasan mengenai perbedaan antara UMA dan NUMA |
+
 <br>
 <hr>
