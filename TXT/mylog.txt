@@ -48,3 +48,11 @@ ZCZC W05 15   L04 GitHub Pages related
 ZCZC W05 120  L05 Quiz related including studying
 ZCZC W05 300  L15 Assignment #05
 ZCZC W05 30   L21 Trying something
+
+ZCZC W06 25   L00 General, etc.
+ZCZC W06 200  L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 30   L03 GitHub related
+ZCZC W06 15   L04 GitHub Pages related
+ZCZC W06 120  L05 Quiz related including studying
+ZCZC W06 300  L16 Assignment #06
+ZCZC W06 30   L21 Trying something
