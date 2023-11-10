@@ -50,5 +50,12 @@ permalink: LINKS/
 | [`fork()` dan `exec()`](https://youtu.be/IFEFVXvjiHY?feature=shared) | Artikel | Penjelasan mengenai `fork()` dan `exec()` dalam *system call* |
 | [Amdahl's Law](https://youtu.be/QutASUpGzbc?feature=shared) | Artikel | Penjelasan mengenai Amdahl's Law pada *concurrency* |
 
+## WEEK-07 (Synchronization & Deadlock)
+| Topik | Tipe | Penjelasan |
+|:--:|:--:|--|
+| [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) | Artikel | Penjelasan mengenai semaphore pada proses *synchronization* |
+| [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) | Artikel | Penjelasan mengenai perbedaan *deadlock* dan *starvation* |
+| [The Dining Philosophers Problem](https://youtu.be/FYUi-u7UWgw?feature=shared) | Video | Penjelasan mengenai permasalahan klasik *synchronization* yaitu *the dining philosophers problem*.
+
 <br>
 <hr>
