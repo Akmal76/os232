@@ -64,3 +64,10 @@ ZCZC W07 15   L04 GitHub Pages related
 ZCZC W07 120  L05 Quiz related including studying
 ZCZC W07 300  L17 Assignment #07
 ZCZC W07 30   L21 Trying something
+
+ZCZC W08 25   L00 General, etc.
+ZCZC W08 200  L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 30   L03 GitHub related
+ZCZC W08 15   L04 GitHub Pages related
+ZCZC W08 120  L05 Quiz related including studying
+ZCZC W08 330  L18 Assignment #08

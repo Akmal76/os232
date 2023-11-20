@@ -57,5 +57,12 @@ permalink: LINKS/
 | [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) | Artikel | Penjelasan mengenai perbedaan *deadlock* dan *starvation* |
 | [The Dining Philosophers Problem](https://youtu.be/FYUi-u7UWgw?feature=shared) | Video | Penjelasan mengenai permasalahan klasik *synchronization* yaitu *the dining philosophers problem*.
 
+## WEEK08 (Linux From Scratch)
+| Topik | Tipe | Penjelasan |
+|:--:|:--:|--|
+| [LFS 12.0 Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) | Video | Video playlist mengenai instalasi Linux From Scratch |
+| [LFS Book for VirtualBox](https://www.linuxfromscratch.org/lfs/view/12.0/) | Artikel | Penjelasan mengenai LFS dengan VirtualBox |
+| [LFS Book for UTM](https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/) | Artikel | Penjelasan mengenai LFS dengan UTM |
+
 <br>
 <hr>
